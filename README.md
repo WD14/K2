@@ -5,11 +5,11 @@ The system manages products, suppliers, clients and orders, and includes stock t
 
 ## Screenshots
 
-### Main Window
+### Login window
 ![Main Window](screenshots/1.png)
 
-### Product Management
+### 
 ![Product Management](screenshots/2.png)
 
-### Order Management
+### 
 ![Order Management](screenshots/3.png)
